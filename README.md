@@ -1,6 +1,6 @@
 # my restaurant api
 
-Api for my restaurant app:
+Api for [my restaurant app](https://github.com/dnieln7/my-restaurant):
 
 Android app that lets the user select food of 5 categories of a complete order (at least 3 of them must be included),
 and make orders providing personal info and their address info if they don't want to make a reservation and have the
